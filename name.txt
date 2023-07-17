@@ -1,0 +1,5 @@
+Ashita Maheshwari
+learning git commands
+so to exit the vim without saving the typed content :q1
+and to exit the vim after saving the changes :x
+before both we need to give the exit command
